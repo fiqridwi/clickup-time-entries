@@ -8,7 +8,7 @@
 2.  Your **User ID** can be found in the URL address bar after accessing the Settings page.
 3.  To generate your **API Key**, click the **"Generate API Key"** button.
 
-![Home](https://github.com/fiqridwi/clickup-time-entries/blob/main/screenshots/api-key.png)
+![Home](https://github.com/fiqridwi/clickup-time-entries/blob/main/src/assets/images/api-key.png)
 
 ## Running on Local
 

@@ -177,7 +177,7 @@ function App() {
         <div className="mb-6">
           <label htmlFor="csvInput" className="block text-sm font-medium mb-2">
             Upload Entry Data (
-            <a href="./template.csv" className="underline text-blue-700">
+            <a href="https://github.com/fiqridwi/clickup-time-entries/blob/main/template.csv" className="underline text-blue-700">
               Download Template
             </a>
             )
